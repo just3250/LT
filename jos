@@ -96,15 +96,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
    {"key":"电影天堂","name":"🎞️天堂┃采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
 {"key":"锦鲤短剧","name":"🐟锦鲤┃短剧","type":3,"api":"csp_JinliGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
 {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_HeMaGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
@@ -247,6 +239,7 @@
 ]
 
 }
+
 
 
 
