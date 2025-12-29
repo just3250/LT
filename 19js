@@ -8,15 +8,7 @@
 "sites":[
 
 
-    {
-      "key": "美少女",
-      "name": "🔞美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "*淫水机资源",
       "name": "🔞淫水机",
@@ -958,3 +950,4 @@
 "ads":["43.248.128.138"]
 
 }
+
