@@ -21,7 +21,15 @@
 "timeout":25},
 {"key":"木偶弹幕","name":"🪵木偶┃4K弹幕","type":3,"api":"csp_MuouGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},
 "timeout":25},
-{"key":"多多弹幕","name":"🪅多多┃4K弹幕","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},
+{"key":"多多弹幕","name":"🪅多多┃4K弹幕","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},  
+{"key": "zp059",
+      "name": "🔞番号资源",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 "timeout":25},
 {"key":"小飒弹幕","name":"💒小飒┃4K弹幕","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},
 "timeout":25},
@@ -231,6 +239,7 @@
 ]
 
 }
+
 
 
 
